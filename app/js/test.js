@@ -5,4 +5,4 @@ function go(){
 
 import * as math from "./mymodule";
 
-console.log(pi)
+console.log(math.pi)
